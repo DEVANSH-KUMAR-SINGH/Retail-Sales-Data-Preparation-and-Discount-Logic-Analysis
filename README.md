@@ -1,4 +1,4 @@
-# 📊 Retail Sales Data Preparation & Discount Pattern Analysis
+# 📊 Retail Sales Data Preparation & Discount Logic Analysis
 
 ### 🛒 Data Analytics | Retail Domain | Data Cleaning & Business Insight SPSS Task
 
